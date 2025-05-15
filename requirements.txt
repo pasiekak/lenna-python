@@ -1,0 +1,8 @@
+# Plik requirements.txt
+# Dodaj tutaj wymagane biblioteki, np. numpy, pandas, flask, itp.
+Pillow
+numpy
+matplotlib
+numba
+opencv-python
+colour-science
